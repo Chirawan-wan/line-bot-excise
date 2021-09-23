@@ -1,4 +1,4 @@
 <?php
 echo "ยินดีต้อนรับสู่..กรมสรรพสามิต<br>";
 echo "Excise Smart Service<br>";
-echo "ผู้พัฒนาเว็บไซต์โดย @จีราวรรณ สนองหม้อ";
+echo "ผู้พัฒนาเว็บไซต์โดย @Chirawan_wan";
